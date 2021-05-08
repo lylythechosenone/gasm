@@ -1,0 +1,2 @@
+reserve 4 bytes as e
+move eax to e

@@ -159,6 +159,10 @@
   <ItemGroup>
     <ClInclude Include="RuntimeError.h" />
     <ClInclude Include="Util.h" />
+    <ClInclude Include="Variable.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hello.gasm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
